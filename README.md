@@ -1,177 +1,160 @@
-# 👋 Bonjour, je suis Kholoud Allam
+# 👋 Hi, I'm Kholoud Allam
 
-🎓 Étudiante ingénieure en informatique & Master MBDS  
-💻 Développement Web • Data • Intelligence Artificielle  
-📍 Casablanca, Maroc  
+🎓 Software & Data Engineering Student  
+🤖 AI • Data • Full-Stack Development  
+📍 Casablanca, Morocco  
 
----
-
-## 🧠 À propos de moi
-Élève ingénieure spécialisée en développement web et data, actuellement en stage PFE chez Airbus Atlantic.  
-Je travaille sur la digitalisation et l’automatisation du processus de recrutement via une plateforme intelligente de gestion des candidatures.  
-
-🎯 Objectif : contribuer à des projets innovants en IA, data et développement full-stack.
+<p align="center">
+  <a href="https://github.com/kholoudam">
+    <img src="https://komarev.com/ghpvc/?username=kholoudam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## 🎓 Éducation
+## 🚀 About Me
 
-- 🎓 **Master MBDS (Mobiquité, Bases de Données, Systèmes)**
-  - Université Côte d’Azur – Nice Sophia Antipolis (2025 – Présent)
+💡 Passionate about **Artificial Intelligence, Data Engineering, and Full-Stack Development**  
+🎯 Currently working on **HR Recruitment Automation Platform (AI-powered)**  
+🏢 Final-year internship at **Airbus Atlantic**  
 
-- 🎓 **Ingénieur Informatique & Réseaux – MIAGE**
-  - EMSI Casablanca (2023 – Présent)
-
-- 🎓 **Technicien Spécialisé Développement Web Full Stack**
-  - ISGI Casablanca (2021 – 2023)
-
-- 🎓 **Baccalauréat Sciences Physiques (Mention Bien)**
-  - Moulay Driss – Casablanca (2020 – 2021)
+🔍 Actively looking for:
+- 🎓 End-of-study internship (PFE)
+- 💼 Junior position (Data / Software Engineer)
 
 ---
 
-## 💼 Expériences professionnelles
+## 🎓 Education
 
-### 🚀 Stage PFE – Airbus Atlantic (2026 – Présent)
-- Digitalisation du processus de recrutement RH
-- Développement d’une plateforme intelligente de gestion des candidatures
-- Classification automatique des CV (IA + règles métier)
-- Automatisation des emails RH
-- Stack : React.js, Next.js, Node.js, SQL Server
+🎓 **Master MBDS – Data & Distributed Systems**  
+Université Côte d’Azur (France)  
 
----
+🎓 **Engineering Degree – Computer Science (MIAGE)**  
+EMSI Casablanca  
 
-### 🤖 Stage IA – Oraimo (2025)
-- Développement d’un système de détection de produits (YOLOv5)
-- Computer Vision & Deep Learning
-- Optimisation du pipeline de données
+🎓 **Full-Stack Web Development Diploma**  
+ISGI Casablanca  
 
 ---
 
-### 🔐 Stage Full Stack Sécurisé – Inetum (2025)
-- Développement Angular + Spring Boot
-- Authentification SSO (Keycloak, JWT)
-- Sécurisation APIs REST
+## 💼 Professional Experience
+
+### ✈️ Airbus Atlantic — *Final Year Internship*
+- Built an **AI-powered recruitment platform**
+- Automated CV parsing & classification
+- Developed HR dashboard & email automation system
+- Tech: `React` `Next.js` `Node.js` `SQL Server`
 
 ---
 
-### ⚙️ Stage Web – Marsa Maroc (2024)
-- Application de gestion des engins roulants
-- Laravel, MySQL, Bootstrap
+### 🤖 Oraimo — *AI Internship*
+- Product detection using **YOLOv5**
+- Computer Vision pipeline optimization
 
 ---
 
-### 💻 Stage Web – Stelia Aerospace (2023)
-- Application de gestion des pièces techniques
-- PHP, MySQL
+### 🔐 Inetum — *Full Stack Secure App*
+- Angular + Spring Boot application
+- SSO Authentication (Keycloak, JWT)
 
 ---
 
-### 🌟 Engagement
-
-- 🎤 Ambassadrice – Career Center EMSI
-- 🎯 Organisatrice – EMSI Summer Internship Competition
+### ⚙️ Marsa Maroc
+- Fleet management web app (Laravel, MySQL)
 
 ---
 
-## 🚀 Projets
+## 🚀 Featured Projects
 
-### 🧠 Plateforme RH intelligente
-- Matching CV / Offres
-- Analyse de compétences
-- Automatisation RH
+🔹 **Smart HR Platform**
+- CV Matching & Ranking
+- Email automation
+- Dashboard for recruiters  
 
----
+🔹 **Microservices Banking App**
+- Spring Boot, GraphQL, Angular  
 
-### 🏦 Application microservices bancaire
-- Spring Boot, Spring Cloud, GraphQL, Angular
-- Architecture microservices
+🔹 **AI Mobile App (Flutter)**
+- Fruit detection using Deep Learning  
 
----
-
-### 📱 App Flutter – Détection de fruits
-- Deep Learning & Computer Vision
+🔹 **E-learning Platform**
+- Laravel, MySQL  
 
 ---
 
-### 📚 Plateforme E-learning
-- Laravel, MySQL
-- Gestion étudiants & enseignants
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C++](https://img.shields.io/badge/C++-blue)
 
 ---
 
-### 🍽️ App réservation restaurant
-- ASP.NET Core MVC, SQL Server
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Spring](https://img.shields.io/badge/SpringBoot-brightgreen)
+![Angular](https://img.shields.io/badge/Angular-red)
+![Laravel](https://img.shields.io/badge/Laravel-orange)
+![Django](https://img.shields.io/badge/Django-green)
 
 ---
 
-### 🛒 Applications e-commerce
-- Django / PHP / Bootstrap
-
----
-
-## 🛠️ Compétences techniques
-
-### 💻 Langages & Frameworks
-Java • Python • JavaScript • PHP • C/C++ • C#  
-Spring Boot • .NET • Node.js • Angular • React • Vue.js  
-Django • Laravel • Flutter  
-
----
-
-### 🗄️ Bases de données
-MySQL • PostgreSQL • SQL Server • Oracle • MongoDB  
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 ---
 
 ### ☁️ Cloud & DevOps
-AWS • Oracle Cloud • Docker • Kubernetes  
-CI/CD • Jenkins • GitHub Actions  
+![AWS](https://img.shields.io/badge/AWS-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-grey)
 
 ---
 
-### 🤖 Data & IA
-Machine Learning • Deep Learning  
-TensorFlow • PyTorch • Scikit-learn  
-Pandas • NumPy • Power BI  
-
----
-
-### 🔐 Sécurité
-JWT • OAuth2 • Keycloak • OWASP  
-
----
-
-## 🧰 Outils
-VS Code • PyCharm • Postman • Docker • Git • Figma • Android Studio  
-
----
-
-## 🌍 Langues
-- 🇲🇦 Arabe  
-- 🇫🇷 Français  
-- 🇬🇧 Anglais  
-
----
-
-## 🏆 Certifications
-- Oracle Cloud Infrastructure AI Foundations  
-- Oracle DevOps Professional  
-- Java SE 17 Developer  
-- Oracle APEX Developer  
-
----
-
-## 📫 Contact
-
-📧 Email : allamkholoud86@gmail.com  
-💼 LinkedIn : https://www.linkedin.com/in/KholoudAllam  
-💻 GitHub : https://github.com/kholoudam  
+### 🤖 Data & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kholoudam&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kholoudam&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholoudam&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kholoudam)
+---
+
+## 🏆 Certifications
+
+✔ Oracle Cloud Infrastructure – AI Foundations  
+✔ Oracle DevOps Professional  
+✔ Java SE 17 Developer  
+
+---
+
+## 🌍 Languages
+
+🇲🇦 Arabic — Native  
+🇫🇷 French — Professional  
+🇬🇧 English — Professional  
+
+---
+
+## 📫 Contact Me
+
+📧 allamkholoud86@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/KholoudAllam  
+💻 GitHub: https://github.com/kholoudam  
+
+---
+
+⭐ *"Turning ideas into intelligent solutions"*
