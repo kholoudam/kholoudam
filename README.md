@@ -4,12 +4,6 @@
 🤖 AI • Data • Full-Stack Development  
 📍 Casablanca, Morocco  
 
-<p align="center">
-  <a href="https://github.com/kholoudam">
-    <img src="https://komarev.com/ghpvc/?username=kholoudam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
